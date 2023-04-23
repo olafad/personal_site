@@ -64,6 +64,10 @@ a:hover {
    padding: 50px 0 20px;
 }
 
+.big-img{
+    width: 75%;
+}
+
 .top-cloud{
     position: absolute;
     right: 200px;
